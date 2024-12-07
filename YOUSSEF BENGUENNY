@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV - Youssef BENGEUNNY</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1.5rem 0;
+        }
+        header h1 {
+            margin: 0;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            padding: 20px;
+        }
+        .section {
+            margin-bottom: 30px;
+        }
+        h2 {
+            color: #444;
+            border-bottom: 2px solid #ddd;
+            padding-bottom: 5px;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        ul li {
+            margin: 10px 0;
+        }
+        footer {
+            text-align: center;
+            padding: 1rem;
+            background: #333;
+            color: #fff;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Youssef BENGEUNNY</h1>
+        <p>Concepteur Mécanique</p>
+    </header>
+    <div class="container">
+        <div class="section">
+            <h2>À propos de moi</h2>
+            <p>
+                Technicien Supérieur en conception mécanique passionné par l'ingénierie,
+                la modélisation numérique, et l'innovation technologique. Motivé à résoudre
+                des défis complexes et à développer des solutions innovantes dans le domaine
+                de la mécanique.
+            </p>
+        </div>
+        <div class="section">
+            <h2>Compétences</h2>
+            <ul>
+                <li>Conception Mécanique et dossiers de fabrication</li>
+                <li>Calcul des structures (linéaire et non linéaire)</li>
+                <li>Dessin technique et choix des matériaux</li>
+                <li>Gestion de la production et maintenance</li>
+                <li>Logiciels : SolidWorks, Catia V5, Ansys</li>
+                <li>Programmation : C++, MATLAB</li>
+            </ul>
+        </div>
+        <div class="section">
+            <h2>Expériences professionnelles</h2>
+            <ul>
+                <li>
+                    <strong>Concepteur mécanique chez Hexcel</strong>
+                    <br>Depuis Novembre 2024 (Fabrication de pièces aéronautiques)
+                </li>
+                <li>
+                    <strong>Conception et amélioration d'un système d'étanchéité pour malaxeur à magma</strong>
+                    <br>Avril 2024 - Mai 2024 (Groupe Cosumar, Sidi Bennour, Maroc)
+                    <br>Outils : Catia, RDM7, SolidWorks, AMDEC
+                </li>
+            </ul>
+        </div>
+        <div class="section">
+            <h2>Diplômes et Formations</h2>
+            <ul>
+                <li>LST en Conception et Fabrication Mécanique (2023-2024, FST Beni Mellal)</li>
+                <li>Diplôme d'Études Universitaires Scientifiques et Techniques (MIPC, 2020-2023)</li>
+                <li>Baccalauréat Sciences Physiques (2020, Mention Bien)</li>
+                <li>Formation en HSE (Hygiène, Sécurité, Environnement) - Entreprise Hexcel</li>
+                <li>Formation en chanfreinage NIDA - Entreprise Hexcel (Fabrication de pièces aéronautiques)</li>
+            </ul>
+        </div>
+        <div class="section">
+            <h2>Langues</h2>
+            <ul>
+                <li>Arabe (Langue Maternelle)</li>
+                <li>Français (Courant)</li>
+                <li>Anglais (Intermédiaire)</li>
+            </ul>
+        </div>
+        <div class="section">
+            <h2>Contact</h2>
+            <p>Email : youssefbenguenny4@gmail.com</p>
+            <p>Téléphone : +212 636 560 489</p>
+            <p>Adresse : Sidi Bennour, Maroc</p>
+        </div>
+    </div>
+    <footer>
+        <p>&copy; 2024 Youssef BENGEUNNY. Tous droits réservés.</p>
+    </footer>
+</body>
+</html>
